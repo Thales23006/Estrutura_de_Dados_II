@@ -1,90 +1,47 @@
 #include <stdio.h>
 
+struct Livro{
+
+  char titulo[100];
+
+  char autor[100];
+
+  int ano_publicacao;
+
+};
+
+
 int main() {
 
-  int alunos; 
+  struct Livro livro;
 
-  int disciplinas;
 
-  int alunos_com_nota_abaixo_de_seis = 0;
+  printf("\n DADOS DO LIVRO \n");
 
-   
+  printf("Titulo do livro: ");
 
-  //leitura de numero de alunos
-
-  printf("Numero de alunos:");
-
-  scanf("%i", &alunos);
-
-   
+  scanf("%s", &livro.titulo);
 
   
+  printf("Autor do livro: ");
 
-  //percorre todos alunos, pergunta a quantidade de disciplinas de cada aluno
+  scanf(" %s", &livro.autor);
 
-  for(int i =1 ; i <= alunos; i++){
+  printf("Ano de Publicacao: ");
 
-    int disciplinas_do_aluno;
+  scanf("%i", &livro.ano_publicacao);
 
-    float soma_notas = 0; // o zero tira o lixo de memória
+  
+  printf("\nDADOS REGISTRADOS\n");
 
-    float nota;
+  printf("TITULO DO LIVRO: %s\n", livro.titulo);
 
-    float media;
+  printf("AUTOR: %s\n", livro.autor);
 
-     
+  printf("ANO DE PUBLICACAO: %i\n", livro.ano_publicacao);
 
-    printf("\n--- ALUNO %i ---\n", i);
-
-     
-
-    printf("Quantas disciplinas o aluno %i cursou? ", i);
-
-    scanf("%i", &disciplinas_do_aluno);
-
-     
-
-    //percorre todas as disciplinas do aluno
-
-    for(int d = 1; d <= disciplinas_do_aluno; d++){
-
-      printf("Qual a nota obtida na disciplina %d:", d);
-
-      scanf("%f", &nota);
-
-      soma_notas = soma_notas + nota;
-
-    }
-
-     
-
-    //media de cada aluno
-
-    media = soma_notas/disciplinas_do_aluno;
-
-    printf("A media do aluno %i: %.2f\n", i, media);
-
-     
-
-    // se tiver um aluno com média abaixo de 6 ele adiciona no contador 
-
-    if(media < 6.0){
-
-      alunos_com_nota_abaixo_de_seis = alunos_com_nota_abaixo_de_seis + 1;
-
-    }
-
-  }
-
-  // exibe quantidae de alunos com nota inferior a 6
-
-  printf("Quantidade de alunos com nota inferior a 6.0: %i", alunos_com_nota_abaixo_de_seis);
-
-   
-
-
+  
 
   return 0;
 
 }
-
