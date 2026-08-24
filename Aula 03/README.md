@@ -1,1 +1,1 @@
-Atividades realizadas durante a aula
+Atividades realizadas durante a aula  envolvendo estruturas dinâmicas
