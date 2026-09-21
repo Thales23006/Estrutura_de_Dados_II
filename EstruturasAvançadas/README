@@ -1,2 +1,24 @@
-Nessa pasta tem o conteúdo da aula de estruturas avaançadas, na qual foram abordados conceitos relacioandos a estrutura de dados hierárquica e não-linear Árvore e seus variados tipos: BST(Árvore Binária de Busca), AVL(Árvore Binária de Busca com balanceamento), Rubro-Negra e B/B++. 
-Essa pasta também possui o projeto desenvolvido em grupo de serious game que no nosso caso foi implementar refatoraçaões em um visualizador de forma que ele fosse mais didático na aprendizagem de árvore, mais dinâmico e interativo. Nesse sentido, as modificações propostas realizadas pelo grupo contribuiram para criar uma nova mecânica e um visualizador mais aprimorado.  
+# Estruturas de Dados Avançadas & Visualizador de Árvores (Serious Game)
+
+Este repositório contém o material de estudos de estruturas de dados avançadas e o projeto prático desenvolvido em grupo: um **Serious Game**(visualizador) focado no ensino didático de estruturas de dados hierárquicas e não-lineares.
+
+## 📚 Conteúdo Teórico
+
+A pasta tem o conteúdo da aula que abordou os conceitos teóricos e práticos de **Árvores**, explorando seus variados tipos e aplicações:
+
+* **BST** (Árvore Binária de Busca)
+* **AVL** (Árvore Binária de Busca Balanceada)
+* **Árvore Rubro-Negra**
+* **Árvore B / B++**
+
+---
+
+## 🎮 O Projeto: Serious Game/Visualizador Interativo
+
+O projeto prático consistiu no desenvolvimento e refatoração de um **visualizador de árvores**, transformando-o em um *visualizador  mais aprimorado* para tornar a aprendizagem dessas estruturas mais dinâmica, fluida e interativa.
+
+### 🛠️ Modificações e Melhorias Implementadas
+As refatorações propostas e realizadas pelo grupo incluíram:
+* **Nova Mecânica de Jogo:** Tornando o processo de inserção, remoção e busca visualmente mais interativo e dinâmico.
+* **Interface Aprimorada:** Um visualizador mais intuitivo e didático, facilitando a compreensão de conceitos complexos (como rotações AVL e balanceamento).
+* **Maior Interatividade:** Estímulo à autonomia do usuário no aprendizado prático da disciplina.
