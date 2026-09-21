@@ -3,7 +3,7 @@
   [--> link do projeto está aqui](https://github.com/Julio0Viana/Estrutura-de-dados-II-SeriousGame)
 
 
-Este repositório contém o material de estudos de estruturas de dados avançadas e o projeto prático desenvolvido em grupo: um **Serious Game**(visualizador) focado no ensino didático de estruturas de dados hierárquicas e não-lineares.
+Este repositório contém o material de estudos de estruturas de dados avançadas e o link do projeto prático(acima do texto) desenvolvido em grupo: um **Serious Game**(visualizador) focado no ensino didático de estruturas de dados hierárquicas e não-lineares.
 
 ## 📚 Conteúdo Teórico
 
