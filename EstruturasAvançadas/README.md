@@ -1,5 +1,5 @@
 # Estruturas de Dados Avançadas & Visualizador de Árvores (Serious Game)
-  [--> link do projeto está aqui] (https://github.com/Julio0Viana/Estrutura-de-dados-II-SeriousGame)
+  [--> link do projeto está aqui](https://github.com/Julio0Viana/Estrutura-de-dados-II-SeriousGame)
 Este repositório contém o material de estudos de estruturas de dados avançadas e o projeto prático desenvolvido em grupo: um **Serious Game**(visualizador) focado no ensino didático de estruturas de dados hierárquicas e não-lineares.
 
 ## 📚 Conteúdo Teórico
