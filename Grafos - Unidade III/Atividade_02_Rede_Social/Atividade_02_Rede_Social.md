@@ -32,7 +32,7 @@ rede = {
     "Elisa": ["Carla", "Diego", "Felipe", "Kátia"],
     "Felipe": ["Diego", "Elisa", "Julia"],
      "Gabi": ["Diego", "Hugo"],
-     "Julia: ["Hugo", "Igor", "Felipe"],
+     "Julia": ["Hugo", "Igor", "Felipe"],
      "Nicolas": ["Igor", "Olivia"],
      "Igor": ["Julia", "Hugo", "Nicolas"],
      "Olivia": ["Lucas", "Nicolas"],
