@@ -14,11 +14,12 @@
 * Usar Python para automatizar os cálculos.
 * **Atividade Prática:** Adicionar 4 usuários fictícios, criar pelo menos 5 novas amizades, atualizar o grafo e o código, e comparar os graus e a densidade antes e depois.
 
-## 1. Grafo Atualizado (Rede Expandida com 10 Usuários)
+## 1. Grafo Atualizado (Rede Expandida com 15 Usuários)
 
-Abaixo está a representação visual da rede social expandida com os novos usuários (João, Maria, Pedro e Isabela) e as novas conexões:
+Abaixo está a representação visual da rede social expandida com os novos usuários (Kátia,) e as novas conexões:
 
-![FOTO B1](Imagem/ImagemB1.png)
+![FOTO C1]<img width="1050" height="556" alt="ImagemC1" src="https://github.com/user-attachments/assets/a48140c1-5b7c-4228-9efc-61089ff3fdb9" />
+
 
 ## 2. Código Python Atualizado
 
@@ -36,8 +37,8 @@ rede = {
      "Nicolas": ["Igor", "Olivia"],
      "Igor": ["Julia", "Hugo", "Nicolas"],
      "Olivia": ["Lucas", "Nicolas"],
-      "Lucas": ["Hugo", "Olivia"]
-      "Hugo": ["Gabi", "Mariana", "Lucas", "Igor", "Julia"]
+      "Lucas": ["Hugo", "Olivia"],
+      "Hugo": ["Gabi", "Mariana", "Lucas", "Igor", "Julia"],
       "Mariana": ["Hugo"]
 
 
