@@ -26,7 +26,7 @@ Abaixo está a representação visual da rede social expandida com os novos usu�
 ```python
 rede = {
     "Ana": ["Bruno", "Carla", "Kátia"],
-     "Kátia": ["Ana", "Elisa"]
+     "Kátia": ["Ana", "Elisa"],
     "Bruno": ["Ana", "Carla", "Diego"],
     "Carla": ["Ana", "Bruno", "Elisa"],
     "Diego": ["Bruno", "Elisa", "Felipe", "Gabi"],
@@ -53,7 +53,7 @@ E = soma_graus // 2
 # D representa a densidade (proporção de conexões reais frente ao máximo teórico possível)
 D = 2 * E / (n * (n - 1))
 
-print(f"Vértices: {n} | Arestas: {E} | Densidade: {D:.2%}")
+print(f"Usuarios: {n} | Amizades: {E} | Densidade: {D:.2%}")
 ```
 
 ## 3. Comparativo: Antes vs. Depois
