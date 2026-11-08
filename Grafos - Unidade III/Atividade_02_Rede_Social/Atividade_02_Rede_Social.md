@@ -114,5 +114,5 @@ print(f"Vértices: {n} | Arestas: {E} | Densidade: {D:.2%}")
 
 
 * **Conclusões:**
-* Enquanto existiu aumento no número de pessoas e amizadades em relação a  estrutura original, diminuiu o percentual das conexões possíveis. Logo, isso mostra  que a rede se expandiu com o número de conexões sendo menor do que antes.
+* Enquanto existiu aumento no número de pessoas(nós) e amizades(arestas) em relação a  estrutura original, diminuiu o percentual das conexões possíveis. Logo, isso mostra  que a rede se expandiu com o número de conexões sendo menor do que antes.
     
