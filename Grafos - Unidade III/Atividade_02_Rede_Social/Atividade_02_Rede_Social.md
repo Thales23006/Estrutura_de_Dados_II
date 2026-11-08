@@ -40,7 +40,7 @@ rede = {
       "Lucas": ["Hugo", "Olivia"],
       "Hugo": ["Gabi", "Mariana", "Lucas", "Igor", "Julia"],
       "Mariana": ["Hugo"]
-
+     }
 
 n = len(rede)  # n representa o número total de vértices (nós/pessoas) na rede
 # rede.values() traz as listas de amigos.
