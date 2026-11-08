@@ -88,6 +88,7 @@ print(f"Vértices: {n} | Arestas: {E} | Densidade: {D:.2%}")
   * $\text{Carla} = 3$
   * $\text{Diego} = 4$
   * $\text{Elisa} = 4$
+  * $\text{Gabi} = 2$
   * $\text{Felipe} = 3$
   * $\text{Julia} = 3$
   * $\text{Hugo} = 5$
@@ -107,4 +108,4 @@ print(f"Vértices: {n} | Arestas: {E} | Densidade: {D:.2%}")
   * $D = \frac{2E}{V \times (V - 1)}$
   * $E = 21$ | $V = 15$
   * $D = \frac{42}{15 \times 14} = \frac{42}{210}$
-  * $D \approx 0,2 = 28 \%$ das conexões possíveis.
+  * $D \approx 0,2 = 20\%$ das conexões possíveis.
