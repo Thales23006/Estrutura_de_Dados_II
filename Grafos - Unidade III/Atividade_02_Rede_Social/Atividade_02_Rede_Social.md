@@ -5,7 +5,7 @@
 
 **Disciplina:** Estrutura de Dados II | Unidade III: Grafos
 **Professora:** Kadidja Valéria
-**Aluna:** Thales da Mata Santos
+**Alunos:** Thales da Mata Santos, Isaú, Kamile e Thierry
 
 ## Desafio Proposto
 
