@@ -19,7 +19,8 @@
 
 Abaixo está a representação visual da rede social expandida com os novos usuários (Kátia,Gabi,Nicolas,Hugo,Igor,Lucas,Mariana,Olivia,Julia) e as novas conexões:
 
-<img width="1050" height="556" alt="ImagemC1" src="https://github.com/user-attachments/assets/a48140c1-5b7c-4228-9efc-61089ff3fdb9" />
+<img width="4280" height="2752" alt="image" src="https://github.com/user-attachments/assets/0c55bc66-ea4e-4475-b40f-b6f3dc443960" />
+
 
 
 ## 2. Código Python Atualizado
@@ -42,6 +43,7 @@ rede = {
       "Lucas": ["Hugo", "Olivia"],
       "Hugo": ["Gabi", "Mariana", "Lucas", "Igor", "Julia"],
       "Mariana": ["Hugo"]
+       "Thales"
      }
 
 n = len(rede)  # n representa o número total de vértices (nós/pessoas) na rede
